@@ -15,7 +15,7 @@ html {
   background-image: url("images/checker.png");
 }
 body {
-  padding: 50px 0;
+  padding: 10px 0;
   margin: 0;
   font: 1em/1.5 "Droid Serif", Helvetica Neue, Helvetica, Arial, sans-serif;
   color: #555;
@@ -542,7 +542,7 @@ article .entry .tags:before {
 #footer {
   width: 680px;
   margin: 20px auto 0;
-  padding: 20px 0 0;
+  padding: 0px 0 0;
   font-size: 0.875em;
   color: #ccc;
   overflow: hidden;
